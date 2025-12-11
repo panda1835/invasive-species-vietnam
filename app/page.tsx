@@ -231,7 +231,7 @@ export default function HomePage() {
                           key={sp.vietnameseName}
                           type="button"
                           onClick={() => openLightbox(sp as Species)}
-                          className="card-fade cursor-pointer group flex flex-col overflow-hidden rounded-xl border border-amber-200 bg-amber-50 text-left shadow-sm transition-transform transition-shadow duration-300 hover:-translate-y-1 hover:scale-[1.02] hover:border-amber-400 hover:shadow-lg"
+                          className=" cursor-pointer group flex flex-col overflow-hidden rounded-xl border border-amber-200 bg-amber-50 text-left shadow-sm transition-transform transition-shadow duration-300 hover:-translate-y-1 hover:scale-[1.02] hover:border-amber-400 hover:shadow-lg"
                         >
                           {/* Thumbnail */}
                           <div className="relative aspect-[4/3] bg-amber-100">
