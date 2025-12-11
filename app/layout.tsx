@@ -47,21 +47,12 @@ export const metadata: Metadata = {
     siteName: "Loài Ngoại Lai Xâm Hại Việt Nam",
     locale: "vi_VN",
     type: "website",
-    images: [
-      {
-        url: "/og-image.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Loài ngoại lai xâm hại ở Việt Nam",
-      },
-    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Loài Ngoại Lai Xâm Hại ở Việt Nam",
     description:
       "Tra cứu danh mục loài ngoại lai xâm hại tại Việt Nam với hình ảnh và thông tin chi tiết.",
-    images: ["/og-image.jpg"],
   },
   robots: {
     index: true,
