@@ -2,13 +2,16 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
-  // Optimize images for better performance and SEO
+  // Allow specific origins for development mode requests
+  // Supports localhost and local network IPs (e.g., 192.168.x.x)
+  // allowedDevOrigins: ["localhost", "192.168.0.173", "192.168.*.*"],
+  // // Optimize images for better performance and SEO
   // images: {
-  //   formats: ['image/webp'],
+  //   formats: ["image/webp"],
   //   deviceSizes: [640, 750, 828, 1080, 1200, 1920],
   //   imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
   // },
-  // Security and SEO headers
+  // // Security and SEO headers
   // async headers() {
   //   return [
   //     {
