@@ -70,6 +70,7 @@ export default function HomePage() {
   const [searchTerm, setSearchTerm] = useState("");
   const [activeSpecies, setActiveSpecies] = useState<Species | null>(null);
   const [activeImageIndex, setActiveImageIndex] = useState(0);
+  const [showContributorModal, setShowContributorModal] = useState(false);
 
   const filteredSpecies = useMemo(() => {
     return SPECIES_LIST.filter((sp) => {
@@ -272,6 +273,19 @@ export default function HomePage() {
           )}
         </section>
 
+        {/* Footer */}
+        <footer className="border-t border-amber-200 bg-amber-50/90 py-6">
+          <div className="mx-auto max-w-5xl px-4 text-center">
+            <button
+              type="button"
+              onClick={() => setShowContributorModal(true)}
+              className="cursor-pointer underline text-sm text-amber-800 hover:text-amber-950 hover:underline transition-colors"
+            >
+              Cảm ơn những người đóng góp
+            </button>
+          </div>
+        </footer>
+
         {/* Lightbox */}
         {activeSpecies && (
           <div
@@ -352,6 +366,52 @@ export default function HomePage() {
                   Thông tin này chỉ mang tính tham khảo, không thay thế văn bản
                   pháp lý chính thức. Nên đối chiếu Thông tư 35/2018/TT-BTNMT và
                   các cập nhật mới nhất.
+                </p>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Contributor Modal */}
+        {showContributorModal && (
+          <div
+            className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-xl"
+            onClick={() => setShowContributorModal(false)}
+          >
+            <div
+              className="relative mx-4 w-full max-w-md overflow-hidden rounded-2xl bg-amber-50 p-6 shadow-2xl ring-1 ring-amber-400/60"
+              onClick={(e) => e.stopPropagation()}
+            >
+              {/* Close button */}
+              <button
+                onClick={() => setShowContributorModal(false)}
+                className="absolute cursor-pointer right-3 top-3 rounded-full bg-amber-100 px-3 py-1 text-sm text-amber-900 shadow hover:bg-amber-200"
+              >
+                Đóng ✕
+              </button>
+
+              {/* Content */}
+              <div className="mt-2">
+                <h2 className="text-2xl font-semibold text-amber-950 mb-4">
+                  Cảm ơn các cộng tác viên
+                </h2>
+                <p className="text-base text-stone-700 mb-4">
+                  Chúng tôi xin chân thành cảm ơn những người đã đóng góp vào dự
+                  án này:
+                </p>
+                <ul className="space-y-2 text-stone-800">
+                  <li className="flex items-start">
+                    <span className="mr-2 text-amber-600">•</span>
+                    <span>HA</span>
+                  </li>
+                  <li className="flex items-start">
+                    <span className="mr-2 text-amber-600">•</span>
+                    <span>Ben</span>
+                  </li>
+                </ul>
+                <p className="mt-6 text-sm text-stone-600">
+                  Nếu bạn muốn đóng góp cho dự án, vui lòng liên hệ
+                  lehoangphuc1820@gmail.com
                 </p>
               </div>
             </div>
