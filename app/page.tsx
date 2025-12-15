@@ -396,8 +396,8 @@ export default function HomePage() {
                   Cảm ơn các cộng tác viên
                 </h2>
                 <p className="text-base text-stone-700 mb-4">
-                  Chúng tôi xin chân thành cảm ơn những người đã đóng góp vào dự
-                  án này:
+                  Chúng tôi xin chân thành cảm ơn những người đã góp sức và tin
+                  tưởng vào dự án này:
                 </p>
                 <ul className="space-y-2 text-stone-800">
                   <li className="flex items-start">
