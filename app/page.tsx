@@ -5,6 +5,9 @@ import { useMemo, useState } from "react";
 import { Search } from "lucide-react";
 import { SPECIES_LIST } from "./speciesList";
 
+const CIRCULAR_URL =
+  "https://congbao.chinhphu.vn/van-ban/thong-tu-so-69-2025-tt-bnnmt-46752.htm";
+
 type Group =
   | "Vi sinh vật"
   | "Động vật không xương sống"
@@ -136,11 +139,20 @@ export default function HomePage() {
                 Loài ngoại lai xâm hại (Invasive Alien Species) là những sinh
                 vật được du nhập từ bên ngoài phạm vi phân bố tự nhiên của chúng
                 và gây tác động tiêu cực đến đa dạng sinh học, sức khỏe con
-                người hoặc kinh tế – xã hội. Tại Việt Nam, danh mục chính thức
-                đang được quy định trong Thông tư 35/2018/TT-BTNMT. Trang này
-                cung cấp giao diện tra cứu trực quan, kèm hình ảnh minh họa và
-                tên khoa học để hỗ trợ giáo dục, nghiên cứu và quản lý môi
-                trường.
+                người hoặc kinh tế – xã hội. Trang này cung cấp giao diện tra
+                cứu trực quan, kèm hình ảnh minh họa và tên khoa học để hỗ trợ
+                giáo dục, nghiên cứu và quản lý môi trường. Danh mục hiện hành
+                gồm 67 loài theo Phụ lục II ban hành kèm theo{" "}
+                <a
+                  href={CIRCULAR_URL}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="font-medium text-amber-800 underline decoration-amber-700/50 underline-offset-2 hover:text-amber-950"
+                >
+                  Thông tư 69/2025/TT-BNNMT
+                </a>{" "}
+                của Bộ Nông nghiệp và Môi trường, có hiệu lực từ ngày
+                15/01/2026 và thay thế Thông tư 35/2018/TT-BTNMT.
               </p>
             </div>
           </div>
@@ -358,14 +370,37 @@ export default function HomePage() {
                 {activeSpecies.photos[activeImageIndex] && (
                   <p className="mt-3 text-sm text-amber-100/90">
                     <span className="font-medium">Ảnh:</span>{" "}
-                    {activeSpecies.photos[activeImageIndex].author}
+                    {activeSpecies.photos[activeImageIndex].author}{" "}
+                    <span aria-hidden="true">·</span>{" "}
+                    {activeSpecies.photos[activeImageIndex].license}{" "}
+                    <span aria-hidden="true">·</span>{" "}
+                    <a
+                      href={activeSpecies.photos[activeImageIndex].source}
+                      target="_blank"
+                      rel="noreferrer"
+                      className="font-medium text-amber-300 underline decoration-amber-300/60 underline-offset-2 hover:text-amber-200"
+                    >
+                      {activeSpecies.photos[activeImageIndex].source.includes(
+                        "inaturalist.org"
+                      )
+                        ? "Xem quan sát trên iNaturalist"
+                        : "Xem nguồn trên Wikimedia Commons"}
+                    </a>
                   </p>
                 )}
 
                 <p className="mt-3 text-xs text-amber-200/80">
                   Thông tin này chỉ mang tính tham khảo, không thay thế văn bản
-                  pháp lý chính thức. Nên đối chiếu Thông tư 35/2018/TT-BTNMT và
-                  các cập nhật mới nhất.
+                  pháp lý chính thức. Nên đối chiếu{" "}
+                  <a
+                    href={CIRCULAR_URL}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="font-medium text-amber-300 underline decoration-amber-300/60 underline-offset-2 hover:text-amber-200"
+                  >
+                    Thông tư 69/2025/TT-BNNMT
+                  </a>{" "}
+                  và các cập nhật mới nhất.
                 </p>
               </div>
             </div>

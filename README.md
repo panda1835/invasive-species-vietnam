@@ -1,11 +1,12 @@
 # Loài Ngoại Lai Xâm Hại ở Việt Nam
 
-A Next.js web application for browsing and searching invasive alien species in Vietnam, based on Circular 35/2018/TT-BTNMT from the Ministry of Natural Resources and Environment.
+A Next.js web application for browsing and searching the 67 invasive alien species in Appendix II of [Circular 69/2025/TT-BNNMT](https://congbao.chinhphu.vn/van-ban/thong-tu-so-69-2025-tt-bnnmt-46752.htm) from the Ministry of Agriculture and Environment. The circular took effect on 15 January 2026 and replaced Circular 35/2018/TT-BTNMT.
 
 ## Features
 
 - 🔍 **Search & Filter**: Search by Vietnamese or scientific names, filter by species groups
 - 🖼️ **Image Gallery**: View multiple images for each species with lightbox
+- 🔗 **Image Attribution**: Open-license details and direct iNaturalist observation or Wikimedia Commons source links
 - 📱 **Responsive Design**: Works seamlessly on desktop, tablet, and mobile
 - 🌐 **SEO Optimized**: Comprehensive metadata, structured data, and social sharing
 
@@ -44,7 +45,7 @@ npm start
 
 ## Adding Species Data
 
-Edit `SPECIES_LIST` in `app/speciesList.ts`:
+Edit the entries in `app/invasive-species-photos.json` (re-exported by `app/speciesList.ts`):
 
 ```typescript
 {
@@ -55,9 +56,8 @@ Edit `SPECIES_LIST` in `app/speciesList.ts`:
     {
       url: "/species/image-name.jpg",
       author: "author name",
-      source: "source url"
-      license: "CC/C/...",
-
+      source: "iNaturalist observation or Wikimedia Commons file URL",
+      license: "CC0 / CC BY / CC BY-SA / Public domain",
     },
   ],
 }
@@ -73,4 +73,4 @@ Edit `SPECIES_LIST` in `app/speciesList.ts`:
 
 ## License
 
-This project is for educational and conservation purposes. Species data is based on Circular 35/2018/TT-BTNMT.
+This project is for educational and conservation purposes. Species data is based on Appendix II of [Circular 69/2025/TT-BNNMT](https://congbao.chinhphu.vn/van-ban/thong-tu-so-69-2025-tt-bnnmt-46752.htm).

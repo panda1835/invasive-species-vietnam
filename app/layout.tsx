@@ -16,13 +16,13 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Loài Ngoại Lai Xâm Hại ở Việt Nam",
   description:
-    "Tra cứu danh mục loài ngoại lai xâm hại (Invasive Alien Species) tại Việt Nam theo Thông tư 35/2018/TT-BTNMT. Bao gồm hình ảnh, tên khoa học và phân loại chi tiết các loài vi sinh vật, động vật và thực vật xâm hại.",
+    "Tra cứu 67 loài ngoại lai xâm hại tại Việt Nam theo Thông tư 69/2025/TT-BNNMT, kèm hình ảnh có giấy phép mở, tên khoa học và phân loại.",
   keywords: [
     "loài ngoại lai xâm hại",
     "invasive alien species",
     "Việt Nam",
-    "Thông tư 35/2018",
-    "BTNMT",
+    "Thông tư 69/2025",
+    "TT-BNNMT",
     "đa dạng sinh học",
     "bảo tồn thiên nhiên",
     "môi trường",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Loài Ngoại Lai Xâm Hại ở Việt Nam",
     description:
-      "Tra cứu danh mục loài ngoại lai xâm hại tại Việt Nam theo Thông tư 35/2018/TT-BTNMT với hình ảnh và thông tin chi tiết.",
+      "Tra cứu 67 loài ngoại lai xâm hại tại Việt Nam theo Thông tư 69/2025/TT-BNNMT với hình ảnh có giấy phép mở và thông tin chi tiết.",
     url: "/",
     siteName: "Loài Ngoại Lai Xâm Hại Việt Nam",
     locale: "vi_VN",

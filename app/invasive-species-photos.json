@@ -1,52 +1,61 @@
 [
   {
-    "group": "Chim – Thú",
-    "vietnameseName": "Hải ly Nam Mỹ",
+    "group": "Vi sinh vật",
+    "vietnameseName": "Nấm gây bệnh thối rễ",
     "scientificNames": [
-      "Myocastor coypus"
+      "Phytophthora cinnamomi"
     ],
     "photos": [
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23154088/large.png",
-        "author": "sneuffer",
-        "license": "CC",
-        "source": ""
-      },
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344632024/large.jpg",
+        "author": "porkytama",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/195837229"
+      }
+    ]
+  },
+  {
+    "group": "Vi sinh vật",
+    "vietnameseName": "Vi khuẩn gây bệnh dịch hạch ở chuột và động vật",
+    "scientificNames": [
+      "Yersinia pestis"
+    ],
+    "photos": [
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129618066/large.jpeg",
-        "author": "Юлия",
-        "license": "CC",
-        "source": ""
-      },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Yersinia_pestis_wayson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "author": "U.S. Center for Disease Control",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Yersinia_pestis_wayson.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Vi sinh vật",
+    "vietnameseName": "Vi-rút gây bệnh chùn ngọn chuối",
+    "scientificNames": [
+      "Banana bunchy top virus"
+    ],
+    "photos": [
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255504905/large.jpeg",
-        "author": "Олексій Бродніков",
-        "license": "CC",
-        "source": ""
-      },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Banana_Bunch_Top_Virus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "author": "State of Hawaii",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Banana_Bunch_Top_Virus.jpg"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Bọ cánh cứng hại lá dừa",
+    "scientificNames": [
+      "Brontispa longissima"
+    ],
+    "photos": [
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184233017/large.jpeg",
-        "author": "Sal Scibetta",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115645630/large.jpg",
-        "author": "Vit Lukas",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349974188/large.jpg",
-        "author": "ctumer",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475398471/large.jpeg",
-        "author": "Daniel Puckett",
-        "license": "CC",
-        "source": ""
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Brontispa_longissima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "author": "Cameron Brumley, DAFWA",
+        "license": "CC BY 3.0 au",
+        "source": "https://commons.wikimedia.org/wiki/File:Brontispa_longissima.jpg"
       }
     ]
   },
@@ -58,575 +67,576 @@
     ],
     "photos": [
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/378088681/large.jpg",
-        "author": "Christian Louie",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165664587/large.jpeg",
+        "author": "Jeff Clark",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/99387481"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261465014/large.jpeg",
-        "author": "Zakqary Roy ",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165664572/large.jpeg",
+        "author": "Jeff Clark",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/99387481"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/319259736/large.jpeg",
-        "author": "Zakqary Roy ",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/233838344/large.jpeg",
-        "author": "Anna",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/419331969/large.jpg",
-        "author": "ltjeffers",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165664552/large.jpeg",
+        "author": "Jeff Clark",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/99387481"
       }
     ]
   },
   {
+    "group": "Cá",
+    "vietnameseName": "Cá hổ",
+    "scientificNames": [
+      "Pygocentrus nattereri"
+    ],
     "photos": [
       {
-        "url": "https://static.inaturalist.org/photos/32166242/large.jpeg",
-        "author": "karsten_s",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453154174/large.jpeg",
+        "author": "Pablo H Capovilla",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/253114217"
       },
       {
-        "url": "https://static.inaturalist.org/photos/32166225/large.jpeg",
-        "author": "karsten_s",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455164106/large.jpeg",
+        "author": "Benjamin Bender",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/254147735"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455164128/large.jpeg",
+        "author": "Benjamin Bender",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/254147735"
       }
+    ]
+  },
+  {
+    "group": "Cá",
+    "vietnameseName": "Cá hồi nâu",
+    "scientificNames": [
+      "Salmo trutta"
     ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127663785/large.jpeg",
+        "author": "Bruce Deagle",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/78035823"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34847723/large.jpg",
+        "author": "kirk gardner",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/22496703"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424581457/large.jpg",
+        "author": "Donald Davesne",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/238487209"
+      }
+    ]
+  },
+  {
+    "group": "Cá",
+    "vietnameseName": "Cá rô phi đen",
+    "scientificNames": [
+      "Oreochromis mossambicus"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118098526/large.jpeg",
+        "author": "Shaun Swanepoel",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/72437849"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118097489/large.jpeg",
+        "author": "Shaun Swanepoel",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/72437849"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118098390/large.jpeg",
+        "author": "Shaun Swanepoel",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/72437849"
+      }
+    ]
+  },
+  {
+    "group": "Cá",
+    "vietnameseName": "Cá tỳ bà bé (cá dọn bể bé)",
     "scientificNames": [
       "Hypostomus plecostomus"
     ],
-    "vietnameseName": "Cá tỳ bà bé (cá dọn bể bé)",
-    "group": "Cá"
-  },
-  {
     "photos": [
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/352649379/large.jpg",
-        "author": "Felipe Campos",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/352649323/large.jpg",
-        "author": "Felipe Campos",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://static.inaturalist.org/photos/139165238/large.jpeg",
-        "author": "Uriel Torres Zevallos",
-        "license": "C",
-        "source": ""
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Hypostomus_plecostomus_-_Rapha%C3%ABl_Covain.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "author": "Raphaël Covain, Natural History Museum of Geneva",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hypostomus_plecostomus_-_Rapha%C3%ABl_Covain.png"
       }
-    ],
+    ]
+  },
+  {
+    "group": "Cá",
+    "vietnameseName": "Cá tỳ bà lớn (cá dọn bể lớn)",
     "scientificNames": [
       "Pterygoplichthys pardalis",
       "Pterygoplichthys multiradiatus",
       "Pterygoplichthys disjunctivus",
       "Pterygoplichthys anisitsi"
     ],
-    "vietnameseName": "Cá tỳ bà lớn (cá dọn bể lớn)",
-    "group": "Cá"
-  },
-  {
     "photos": [
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/285714275/large.jpeg",
-        "author": "Adrien Cantat",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355863358/large.jpg",
+        "author": "Zac Peterson",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/201583464"
       },
       {
-        "url": "https://static.inaturalist.org/photos/313077412/large.jpg",
-        "author": "Janus Olajuan Boediman",
-        "license": "C",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355863387/large.jpg",
+        "author": "Zac Peterson",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/201583464"
       },
       {
-        "url": "https://static.inaturalist.org/photos/313077391/large.jpg",
-        "author": "Janus Olajuan Boediman",
-        "license": "C",
-        "source": ""
-      },
-      {
-        "url": "https://static.inaturalist.org/photos/199307736/large.jpeg",
-        "author": "Kamonthip Kuntapeng",
-        "license": "C",
-        "source": ""
-      },
-      {
-        "url": "https://static.inaturalist.org/photos/162333678/large.jpg",
-        "author": "honeyroll_ahmad_sah",
-        "license": "C",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355863384/large.jpg",
+        "author": "Zac Peterson",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/201583464"
       }
-    ],
+    ]
+  },
+  {
+    "group": "Cá",
+    "vietnameseName": "Cá vược miệng bé",
     "scientificNames": [
-      "Brontispa longissima"
+      "Micropterus dolomieu"
     ],
-    "vietnameseName": "Bọ cánh cứng hại lá dừa",
-    "group": "Động vật không xương sống"
-  },
-  {
     "photos": [
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334050680/large.jpg",
-        "author": "Denice Nossett",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581114527/large.jpg",
+        "author": "Joshua Johnson",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/321330647"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24450532/large.jpeg",
-        "author": "傻子",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581114646/large.jpg",
+        "author": "Joshua Johnson",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/321330647"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24450533/large.jpeg",
-        "author": "傻子",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4106743/large.JPG",
-        "author": "harum.koh",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257765436/large.jpg",
-        "author": "Michael Tidwell",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131863254/large.jpg",
-        "author": "James M. Maley",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/581114672/large.jpg",
+        "author": "Joshua Johnson",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/321330647"
       }
+    ]
+  },
+  {
+    "group": "Cá",
+    "vietnameseName": "Cá vược miệng rộng",
+    "scientificNames": [
+      "Micropterus salmoides"
     ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/333258205/large.jpg",
+        "author": "Nick Tobler (Cowturtle)",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/190142449"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/333258222/large.jpg",
+        "author": "Nick Tobler (Cowturtle)",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/190142449"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/333258247/large.jpg",
+        "author": "Nick Tobler (Cowturtle)",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/190142449"
+      }
+    ]
+  },
+  {
+    "group": "Cá",
+    "vietnameseName": "Cá vược sông Nile",
+    "scientificNames": [
+      "Lates niloticus"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170339702/large.jpeg",
+        "author": "Lucy Keith-Diagne",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/101955671"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/336880517/large.jpg",
+        "author": "Ioannis Magouras",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/191959361"
+      }
+    ]
+  },
+  {
+    "group": "Chim – Thú",
+    "vietnameseName": "Chồn ecmin",
+    "scientificNames": [
+      "Mustela erminea"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548864107/large.jpg",
+        "author": "Donsky",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/304461429"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548864147/large.jpg",
+        "author": "Donsky",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/304461429"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548864136/large.jpg",
+        "author": "Donsky",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/304461429"
+      }
+    ]
+  },
+  {
+    "group": "Lưỡng cư – Bò sát",
+    "vietnameseName": "Cóc mía",
+    "scientificNames": [
+      "Bufo marinus"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170855798/large.jpg",
+        "author": "Brodie and Yasmin",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/102232195"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31562026/large.jpg",
+        "author": "Peter Quakenbush",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/20442542"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605493562/large.jpg",
+        "author": "Ryan van Huyssteen",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/333509742"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Cua xanh (cua ven bờ châu Âu)",
+    "scientificNames": [
+      "Carcinus maenas"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76908604/large.jpg",
+        "author": "Klaus Kevin Kristensen",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/48468309"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183803304/large.jpeg",
+        "author": "Jessica Utrup",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/109094490"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183803336/large.jpeg",
+        "author": "Jessica Utrup",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/109094490"
+      }
+    ]
+  },
+  {
+    "group": "Lưỡng cư – Bò sát",
+    "vietnameseName": "Ếch Ca-ri-bê",
+    "scientificNames": [
+      "Eleutherodactylus coqui"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151263193/large.jpeg",
+        "author": "ritirene",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/91446526"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248216643/large.jpeg",
+        "author": "Tom Kennedy",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/144603521"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451199413/large.jpeg",
+        "author": "Thibaud Aronson",
+        "license": "CC-BY-SA",
+        "source": "https://www.inaturalist.org/observations/252090681"
+      }
+    ]
+  },
+  {
+    "group": "Lưỡng cư – Bò sát",
+    "vietnameseName": "Ếch ương beo",
+    "scientificNames": [
+      "Rana catesbeiana"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/161936314/large.jpg",
+        "author": "Nell Cant",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/97376714"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38503110/large.jpg",
+        "author": "Adam Cushen",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/24892948"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23863201/large.jpeg",
+        "author": "Sam Kieschnick",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/15947177"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Giáp xác râu ngành pengoi",
+    "scientificNames": [
+      "Cercopagis pengoi"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53114739/large.jpg",
+        "author": "Dmitry Kulakov",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/33794115"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53114805/large.jpg",
+        "author": "Dmitry Kulakov",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/33794119"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53115154/large.jpg",
+        "author": "Dmitry Kulakov",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/33794119"
+      }
+    ]
+  },
+  {
+    "group": "Chim – Thú",
+    "vietnameseName": "Hải ly Nam Mỹ",
+    "scientificNames": [
+      "Myocastor coypus"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129618066/large.jpeg",
+        "author": "Юлия",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/79153082"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129618085/large.jpeg",
+        "author": "Юлия",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/79153082"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129618732/large.jpeg",
+        "author": "Юлия",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/79153082"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Kiến Ac-hen-ti-na",
+    "scientificNames": [
+      "Linepithema humile"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75803375/large.jpg",
+        "author": "Asiel Olivares",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/47787789"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476025486/large.jpeg",
+        "author": "zebedeugalinha",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/265053765"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182941460/large.jpeg",
+        "author": "kbkash",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/108633460"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Kiến đầu to",
+    "scientificNames": [
+      "Pheidole megacephala"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179975701/large.jpg",
+        "author": "Jake Nitta",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/107055669"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179975723/large.jpg",
+        "author": "Jake Nitta",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/107055669"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179975719/large.jpg",
+        "author": "Jake Nitta",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/107055669"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Kiến lửa đỏ nhập khẩu (kiến lửa đỏ)",
+    "scientificNames": [
+      "Solenopsis invicta"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344211881/large.jpg",
+        "author": "Emmett Collins-Sussman",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/195628847"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344211880/large.jpg",
+        "author": "Emmett Collins-Sussman",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/195628847"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344211883/large.jpg",
+        "author": "Emmett Collins-Sussman",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/195628847"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Ốc bươu vàng",
     "scientificNames": [
       "Pomacea canaliculata"
     ],
-    "vietnameseName": "Ốc bươu vàng",
-    "group": "Động vật không xương sống"
-  },
-  {
     "photos": [
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/554566102/large.jpg",
-        "author": "medgull",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95473455/large.jpg",
+        "author": "Parsa Fard",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/59739608"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355530673/large.jpeg",
-        "author": "manequinho",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95473492/large.jpg",
+        "author": "Parsa Fard",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/59739608"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246067002/large.jpeg",
-        "author": "hdcooper",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335083576/large.jpeg",
-        "author": "sinusgangeticus",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/297304200/large.jpeg",
-        "author": "小铖/Smalltown",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4403867/large.jpeg",
-        "author": "ONG OeBenin",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://static.inaturalist.org/photos/137155476/large.jpeg",
-        "author": "Iere Hoama Serra Fidelis",
-        "license": "C",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95473510/large.jpg",
+        "author": "Parsa Fard",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/59739608"
       }
-    ],
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Ốc sên châu Phi",
     "scientificNames": [
       "Achatina fulica"
     ],
-    "vietnameseName": "Ốc sên châu Phi",
-    "group": "Động vật không xương sống"
-  },
-  {
     "photos": [
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491056012/large.jpeg",
-        "author": "Hugo Innes",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222455532/large.jpg",
+        "author": "Neal Kelso",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/130777570"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474410456/large.jpeg",
-        "author": "Benny Wu",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461228467/large.jpeg",
+        "author": "chiuluan",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/257146348"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232766567/large.jpeg",
-        "author": "H.T.Cheng",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232655138/large.jpeg",
-        "author": "H.T.Cheng",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111432996/large.jpg",
-        "author": "Tse Chung Yi",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111432987/large.jpg",
-        "author": "Tse Chung Yi",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://static.inaturalist.org/photos/591001705/large.jpg",
-        "author": "Dmytro and Elena",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405889770/large.jpeg",
+        "author": "Crazycaracal 993",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/228711526"
       }
-    ],
-    "scientificNames": [
-      "Cherax quadricarinatus"
-    ],
-    "vietnameseName": "Tôm càng đỏ",
-    "group": "Động vật không xương sống"
+    ]
   },
   {
+    "group": "Lưỡng cư – Bò sát",
+    "vietnameseName": "Rắn nâu leo cây",
+    "scientificNames": [
+      "Boiga irregularis"
+    ],
     "photos": [
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/437886374/large.jpeg",
-        "author": "Quentin Groom",
-        "license": "None",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481272199/large.jpeg",
+        "author": "Bethlea Bell",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/267785174"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450085376/large.jpeg",
-        "author": "Mark Clarke",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481272260/large.jpeg",
+        "author": "Bethlea Bell",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/267785174"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/136151066/large.jpeg",
-        "author": "Mike Tilley",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/275408559/large.jpeg",
-        "author": "Roberto Gaitan",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215846470/large.jpeg",
-        "author": "Shawn",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/142812210/large.jpeg",
-        "author": "malvaceousmugi",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481272317/large.jpeg",
+        "author": "Bethlea Bell",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/267785174"
       }
-    ],
-    "scientificNames": [
-      "Eichhornia crassipes"
-    ],
-    "vietnameseName": "Bèo tây (bèo Lục bình, bèo Nhật Bản)",
-    "group": "Thực vật"
-  },
-  {
-    "photos": [
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424000556/large.jpeg",
-        "author": "akio.suzuki",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187630314/large.jpg",
-        "author": "telus-tig_samangel",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/253181321/large.jpeg",
-        "author": "Isai Olalde Estrada",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80585117/large.jpeg",
-        "author": "birdboi1",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/184267284/large.jpg",
-        "author": "Dominik Maximilián Ramík",
-        "license": "CC",
-        "source": ""
-      }
-    ],
-    "scientificNames": [
-      "Lantana camara"
-    ],
-    "vietnameseName": "Cây ngũ sắc (bông ổi)",
-    "group": "Thực vật"
-  },
-  {
-    "photos": [
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59172322/large.jpg",
-        "author": "jsainz",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75271417/large.jpeg",
-        "author": "William Bravo",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550721045/large.jpg",
-        "author": "Russell Cumming",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/266235357/large.jpeg",
-        "author": "Kuan-Chieh (Chuck) Hung",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101653440/large.jpeg",
-        "author": "Joey Santore ",
-        "license": "CC",
-        "source": ""
-      }
-    ],
-    "scientificNames": [
-      "Chromolaena odorata"
-    ],
-    "vietnameseName": "Cỏ lào",
-    "group": "Thực vật"
-  },
-  {
-    "photos": [
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/512178128/large.jpg",
-        "author": "maria_esparza",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/367736724/large.jpg",
-        "author": "onidiras-iNaturalist",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://static.inaturalist.org/photos/479351000/large.jpg",
-        "author": "Alenilson",
-        "license": "C",
-        "source": ""
-      },
-      {
-        "url": "https://static.inaturalist.org/photos/479351022/large.jpg",
-        "author": "Alenilson",
-        "license": "C",
-        "source": ""
-      },
-      {
-        "url": "https://static.inaturalist.org/photos/479351025/large.jpg",
-        "author": "Alenilson",
-        "license": "C",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198721533/large.jpeg",
-        "author": "Ricard Busquets Reverte ",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466882371/large.jpeg",
-        "author": "Sinaloa Silvestre",
-        "license": "None",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/496234817/large.jpeg",
-        "author": "Marco Polo amarillas vargas",
-        "license": "CC",
-        "source": ""
-      }
-    ],
-    "scientificNames": [
-      "Parthenium hysterophorus"
-    ],
-    "vietnameseName": "Cúc liên chi",
-    "group": "Thực vật"
-  },
-  {
-    "photos": [
-      {
-        "url": "https://static.inaturalist.org/photos/12260026/large.jpeg",
-        "author": "greenlapwing",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202612066/large.jpeg",
-        "author": "Ong Jyh Seng",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94430686/large.jpeg",
-        "author": "jaydip balasara",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359678339/large.jpeg",
-        "author": "Craig Peter",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359678132/large.jpeg",
-        "author": "Craig Peter",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://static.inaturalist.org/photos/254564014/large.jpeg",
-        "author": "陳鴻文",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/337801621/large.jpeg",
-        "author": "LannaMountainsCharlie",
-        "license": "CC",
-        "source": ""
-      }
-    ],
-    "scientificNames": [
-      "Mimosa diplotricha"
-    ],
-    "vietnameseName": "Trinh nữ móc",
-    "group": "Thực vật"
-  },
-  {
-    "photos": [
-      {
-        "url": "https://static.inaturalist.org/photos/47033998/large.jpeg",
-        "author": "Daniel",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/386063296/large.jpeg",
-        "author": "Linda Loffler",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87978143/large.jpg",
-        "author": "Bart Wursten",
-        "license": "CC",
-        "source": ""
-      },
-      {
-        "url": "https://static.inaturalist.org/photos/195957646/large.jpeg",
-        "author": "Juan Carlos Garcia Morales",
-        "license": "C",
-        "source": ""
-      },
-      {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/398579348/large.jpeg",
-        "author": "Donna Schakelaar",
-        "license": "CC",
-        "source": ""
-      }
-    ],
-    "scientificNames": [
-      "Mimosa pigra"
-    ],
-    "vietnameseName": "Trinh nữ thân gỗ (mai dương)",
-    "group": "Thực vật"
-  },
-  {
-    "group": "Vi sinh vật",
-    "vietnameseName": "Nấm gây bệnh thối rễ",
-    "scientificNames": [
-      "Phytophthora cinnamomi"
-    ],
-    "photos": []
-  },
-  {
-    "group": "Vi sinh vật",
-    "vietnameseName": "Vi khuẩn gây bệnh dịch hạch ở chuột và động vật",
-    "scientificNames": [
-      "Yersinia pestis"
-    ],
-    "photos": []
-  },
-  {
-    "group": "Vi sinh vật",
-    "vietnameseName": "Vi-rút gây bệnh chùn ngọn chuối",
-    "scientificNames": [
-      "Banana bunchy top virus"
-    ],
-    "photos": []
-  },
-  {
-    "group": "Vi sinh vật",
-    "vietnameseName": "Vi-rút gây bệnh cúm gia cầm",
-    "scientificNames": [
-      "Avian influenza virus"
-    ],
-    "photos": []
+    ]
   },
   {
     "group": "Lưỡng cư – Bò sát",
@@ -636,40 +646,1104 @@
     ],
     "photos": [
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/361765594/large.jpg",
-        "author": "Trey Wardlaw",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5518581/large.jpg",
+        "author": "Laura Clark",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/4571829"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6996183/large.jpeg",
-        "author": "Jerry Cannon",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5518579/large.jpg",
+        "author": "Laura Clark",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/4571829"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563124582/large.jpg",
-        "author": "Mick Massie",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5518590/large.jpg",
+        "author": "Laura Clark",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/4571829"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Sán ốc sên",
+    "scientificNames": [
+      "Platydemus manokwari"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62944051/large.jpg",
+        "author": "Sandra H Statner",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/39660889"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/372330638/large.jpeg",
-        "author": "Adnan Ilyas",
-        "license": "C",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62944091/large.jpg",
+        "author": "Sandra H Statner",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/39660889"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359350541/large.jpeg",
-        "author": "Claire Herzog",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62944061/large.jpg",
+        "author": "Sandra H Statner",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/39660889"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Sao biển Bắc Thái Bình Dương",
+    "scientificNames": [
+      "Asterias amurensis"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397553054/large.jpeg",
+        "author": "MickWH",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/224314935"
       },
       {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/570338720/large.jpg",
-        "author": "Chris Bentley",
-        "license": "CC",
-        "source": ""
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397553077/large.jpeg",
+        "author": "MickWH",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/224314935"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105049887/large.jpeg",
+        "author": "Erin McKittrick",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/65286131"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Sên sói tía",
+    "scientificNames": [
+      "Euglandina rosea"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10835202/large.jpg",
+        "author": "Raven Dandridge",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/8180129"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10835200/large.jpg",
+        "author": "Raven Dandridge",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/8180129"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245887221/large.jpg",
+        "author": "Tedd Greenwald",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/143380979"
+      }
+    ]
+  },
+  {
+    "group": "Chim – Thú",
+    "vietnameseName": "Sóc nâu, sóc xám",
+    "scientificNames": [
+      "Sciurus carolinensis"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176023576/large.jpeg",
+        "author": "Mila C.",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/104976531"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176023564/large.jpeg",
+        "author": "Mila C.",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/104976531"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176023549/large.jpeg",
+        "author": "Mila C.",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/104976531"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Sứa lược Leidyi",
+    "scientificNames": [
+      "Mnemiopsis leidyi"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/173832279/large.jpg",
+        "author": "Klaus Kevin Kristensen",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/103808437"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/256097139/large.jpeg",
+        "author": "Daniela Martínez",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/148688247"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198193589/large.jpeg",
+        "author": "Julien Renoult",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/117364536"
+      }
+    ]
+  },
+  {
+    "group": "Chim – Thú",
+    "vietnameseName": "Thú opốt",
+    "scientificNames": [
+      "Trichosurus vulpecula"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/559261003/large.jpg",
+        "author": "Jenny Saito",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/309892783"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/69157927/large.jpeg",
+        "author": "Ken Rawlins",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/43592643"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236676749/large.jpeg",
+        "author": "Ken Rawlins",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/43592643"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Tôm càng đỏ",
+    "scientificNames": [
+      "Cherax quadricarinatus"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8346550/large.jpg",
+        "author": "Flavio Basilico",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/6578562"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456578594/large.jpg",
+        "author": "Jun MATSUI",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/254849976"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6192378/large.jpeg",
+        "author": "Lee Cain",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/5051992"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Tôm hùm nước ngọt",
+    "scientificNames": [
+      "Procambarus clarkii"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22605924/large.jpg",
+        "author": "westcoasthikers",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/15127029"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445142910/large.jpeg",
+        "author": "Sam Turner",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/249060852"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/445142871/large.jpeg",
+        "author": "Sam Turner",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/249060852"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Trai Địa Trung Hải",
+    "scientificNames": [
+      "Mytilus galloprovincialis"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366008945/large.jpeg",
+        "author": "Roman A. Lagazyuk (Роман А. Лагазюк)",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/206949868"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366009071/large.jpeg",
+        "author": "Roman A. Lagazyuk (Роман А. Лагазюк)",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/206949868"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366009144/large.jpeg",
+        "author": "Roman A. Lagazyuk (Роман А. Лагазюк)",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/206949868"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Trai Trung Hoa",
+    "scientificNames": [
+      "Potamocorbula amurensis"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487894582/large.jpg",
+        "author": "tasty_y",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/271246910"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487894928/large.jpg",
+        "author": "tasty_y",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/271246910"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487894930/large.jpg",
+        "author": "tasty_y",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/271246910"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Trai vằn",
+    "scientificNames": [
+      "Dreissena polymorpha"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443340553/large.jpeg",
+        "author": "wilderbombyx",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/248155326"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443340585/large.jpeg",
+        "author": "wilderbombyx",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/248155326"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443340611/large.jpeg",
+        "author": "wilderbombyx",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/248155326"
+      }
+    ]
+  },
+  {
+    "group": "Động vật không xương sống",
+    "vietnameseName": "Xén tóc hại gỗ châu Á",
+    "scientificNames": [
+      "Anoplophora glabripennis"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308953863/large.jpg",
+        "author": "Zinogre",
+        "license": "CC-BY-SA",
+        "source": "https://www.inaturalist.org/observations/177621454"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45193854/large.jpg",
+        "author": "Pedro Henrique Maloso Ramos",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/28973722"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154539122/large.jpg",
+        "author": "Michael Meiring",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/93257697"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Bèo tai chuột lớn",
+    "scientificNames": [
+      "Salvinia molesta"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15595408/large.jpeg",
+        "author": "Di Turner",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/11049385"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15595433/large.jpeg",
+        "author": "Di Turner",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/11049385"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/481248881/large.jpg",
+        "author": "Richard Fuller",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/267774094"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Bèo tây (bèo Lục bình, bèo Nhật Bản)",
+    "scientificNames": [
+      "Eichhornia crassipes"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3103104/large.JPG",
+        "author": "Mattia Menchetti",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/2746308"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31164282/large.jpg",
+        "author": "Michael D Fox",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/20192111"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28107964/large.jpeg",
+        "author": "葉子",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/18390548"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cây chân châu tía",
+    "scientificNames": [
+      "Lythrum salicaria"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505029214/large.jpg",
+        "author": "Douglas Goldman",
+        "license": "CC-BY-SA",
+        "source": "https://www.inaturalist.org/observations/281222505"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505161576/large.jpg",
+        "author": "Douglas Goldman",
+        "license": "CC-BY-SA",
+        "source": "https://www.inaturalist.org/observations/281222505"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505161596/large.jpg",
+        "author": "Douglas Goldman",
+        "license": "CC-BY-SA",
+        "source": "https://www.inaturalist.org/observations/281222505"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cây cúc bò (cúc xuyến chi)",
+    "scientificNames": [
+      "Sphagneticola trilobata"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25874811/large.jpg",
+        "author": "portioid",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/17091821"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25874862/large.jpg",
+        "author": "portioid",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/17091821"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5082839/large.jpeg",
+        "author": "Chelle Temple-King",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/4250428"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cây cúc leo",
+    "scientificNames": [
+      "Mikania micrantha"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9244718/large.jpg",
+        "author": "portioid",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/7173639"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9244709/large.jpg",
+        "author": "portioid",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/7173639"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9244696/large.jpg",
+        "author": "portioid",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/7173639"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cây cứt lợn (cỏ cứt heo)",
+    "scientificNames": [
+      "Ageratum conyzoides"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15258131/large.jpg",
+        "author": "Wynand Uys",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/10870081"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15258132/large.jpg",
+        "author": "Wynand Uys",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/10870081"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313829729/large.jpeg",
+        "author": "sdash",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/180189076"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cây đương Prosopis",
+    "scientificNames": [
+      "Prosopis glandulosa"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486580621/large.jpeg",
+        "author": "Linda Jo Conn",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/270557965"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486575906/large.jpeg",
+        "author": "Linda Jo Conn",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/270557965"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/486586331/large.jpeg",
+        "author": "Linda Jo Conn",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/270557965"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cây hoa Tulip châu Phi (cây Uất kim hương châu Phi)",
+    "scientificNames": [
+      "Spathodea campanulata"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/173257063/large.jpeg",
+        "author": "Ricard Busquets Reverte",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/103510957"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/173257574/large.jpeg",
+        "author": "Ricard Busquets Reverte",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/103510957"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260823908/large.jpg",
+        "author": "Abu Hamas",
+        "license": "CC-BY-SA",
+        "source": "https://www.inaturalist.org/observations/151188802"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cây kim tước",
+    "scientificNames": [
+      "Ulex europaeus"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246484833/large.jpeg",
+        "author": "Murray Dawson",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/143696986"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246485242/large.jpeg",
+        "author": "Murray Dawson",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/143696986"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246487427/large.jpeg",
+        "author": "Murray Dawson",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/143696986"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cây lược vàng",
+    "scientificNames": [
+      "Callisia fragrans"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250022344/large.jpg",
+        "author": "juniem",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/145544879"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250022359/large.jpg",
+        "author": "juniem",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/145544879"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250022372/large.jpg",
+        "author": "juniem",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/145544879"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cây Micona",
+    "scientificNames": [
+      "Miconia calvescens"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/220850538/large.jpg",
+        "author": "Diogo Luiz",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/129923503"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/220850469/large.jpg",
+        "author": "Diogo Luiz",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/129923503"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/220850418/large.jpg",
+        "author": "Diogo Luiz",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/129923503"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cây ngũ sắc (bông ổi)",
+    "scientificNames": [
+      "Lantana camara"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30555282/large.jpg",
+        "author": "Matt Berger",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/19822099"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/182123176/large.jpeg",
+        "author": "Carlos Otávio Gussoni",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/108197835"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2292759/large.jpg",
+        "author": "José Belem Hernández Díaz",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/1881056"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cây thánh liễu",
+    "scientificNames": [
+      "Tamarix ramosissima"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9268977/large.jpeg",
+        "author": "Oscar Alejandro Morales Juárez",
+        "license": "CC-BY-SA",
+        "source": "https://www.inaturalist.org/observations/7189072"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10360689/large.jpg",
+        "author": "W. Terry Hunefeld",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/7863951"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10360693/large.jpg",
+        "author": "W. Terry Hunefeld",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/7863951"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cây xương rồng đất",
+    "scientificNames": [
+      "Opuntia stricta"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482891417/large.jpeg",
+        "author": "Greg Tasney",
+        "license": "CC-BY-SA",
+        "source": "https://www.inaturalist.org/observations/268634161"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482891207/large.jpeg",
+        "author": "Greg Tasney",
+        "license": "CC-BY-SA",
+        "source": "https://www.inaturalist.org/observations/268634161"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482891300/large.jpeg",
+        "author": "Greg Tasney",
+        "license": "CC-BY-SA",
+        "source": "https://www.inaturalist.org/observations/268634161"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Chút chít nhật",
+    "scientificNames": [
+      "Fallopia japonica"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421616414/large.jpeg",
+        "author": "jamie-aa",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/236948863"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421616358/large.jpeg",
+        "author": "jamie-aa",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/236948863"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421616413/large.jpeg",
+        "author": "jamie-aa",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/236948863"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cỏ đuôi chồn",
+    "scientificNames": [
+      "Pennisetum setaceum",
+      "Cenchrus setaceus"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164996037/large.jpg",
+        "author": "Lauu",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/112753545"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165008191/large.jpg",
+        "author": "Lauu",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/112753545"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338915132/large.jpg",
+        "author": "Cayman Lanzone",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/192987722"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cỏ echin",
+    "scientificNames": [
+      "Cenchrus echinatus"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141624050/large.jpeg",
+        "author": "KAnatoliy",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/86012807"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141624061/large.jpeg",
+        "author": "KAnatoliy",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/86012807"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/141624070/large.jpeg",
+        "author": "KAnatoliy",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/86012807"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cỏ kê Guinea",
+    "scientificNames": [
+      "Urochloa maxima"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/204000743/large.jpg",
+        "author": "Kevin Faccenda",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/120603861"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334639251/large.jpeg",
+        "author": "Kevin Faccenda",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/190838758"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30642273/large.jpg",
+        "author": "Sam Kieschnick",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/19871659"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cỏ kê Para",
+    "scientificNames": [
+      "Urochloa mutica"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586715199/large.jpg",
+        "author": "bat (Maria Vorontsova)",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/324185196"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64417737/large.jpeg",
+        "author": "葉子",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/40639215"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64417741/large.jpeg",
+        "author": "葉子",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/40639215"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cỏ lào",
+    "scientificNames": [
+      "Chromolaena odorata"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5762507/large.jpeg",
+        "author": "Francisco Farriols Sarabia",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/4746567"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5762537/large.jpeg",
+        "author": "Francisco Farriols Sarabia",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/4746567"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5762538/large.jpeg",
+        "author": "Francisco Farriols Sarabia",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/4746567"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cỏ lào đỏ",
+    "scientificNames": [
+      "Ageratina adenophora",
+      "Eupatorium adenophorum"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26643316/large.jpeg",
+        "author": "Tony Rebelo",
+        "license": "CC-BY-SA",
+        "source": "https://www.inaturalist.org/observations/17510869"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26643291/large.jpeg",
+        "author": "Tony Rebelo",
+        "license": "CC-BY-SA",
+        "source": "https://www.inaturalist.org/observations/17510869"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172396451/large.jpeg",
+        "author": "Vítor Jorge",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/103054395"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cỏ nước lợ",
+    "scientificNames": [
+      "Paspalum vaginatum"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322165524/large.jpeg",
+        "author": "W Rao",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/184558213"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322165535/large.jpeg",
+        "author": "W Rao",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/184558213"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322165577/large.jpeg",
+        "author": "W Rao",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/184558213"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Cúc liên chi",
+    "scientificNames": [
+      "Parthenium hysterophorus"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/99894238/large.jpeg",
+        "author": "Guillermo Debandi",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/62355995"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/354039173/large.jpg",
+        "author": "Nate Sabo",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/200645568"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/243610862/large.jpeg",
+        "author": "Annika Lindqvist",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/142121528"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Dầu mè tía",
+    "scientificNames": [
+      "Jatropha gossypiifolia L."
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270902494/large.jpeg",
+        "author": "Ben Machado",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/156652459"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270902530/large.jpeg",
+        "author": "Ben Machado",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/156652459"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270902561/large.jpeg",
+        "author": "Ben Machado",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/156652459"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Gừng dại (ngải tiên dại)",
+    "scientificNames": [
+      "Hedychium gardnerianum"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/454762646/large.jpeg",
+        "author": "zebedeugalinha",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/253943256"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15213645/large.jpg",
+        "author": "Peter Warren",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/10848169"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15213650/large.jpg",
+        "author": "Peter Warren",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/10848169"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Rong lá ngò",
+    "scientificNames": [
+      "Cabomba caroliniana"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578946045/large.jpg",
+        "author": "Amber M. King",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/320225987"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578946069/large.jpg",
+        "author": "Amber M. King",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/320225987"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183488313/large.jpeg",
+        "author": "Jade Fortnash",
+        "license": "CC0",
+        "source": "https://www.inaturalist.org/observations/108924519"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Trinh nữ móc",
+    "scientificNames": [
+      "Mimosa diplotricha"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/180416624/large.jpeg",
+        "author": "pbsg",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/107249971"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/180416629/large.jpeg",
+        "author": "pbsg",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/107249971"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/180416631/large.jpeg",
+        "author": "pbsg",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/107249971"
+      }
+    ]
+  },
+  {
+    "group": "Thực vật",
+    "vietnameseName": "Trinh nữ thân gỗ (mai dương)",
+    "scientificNames": [
+      "Mimosa pigra"
+    ],
+    "photos": [
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245847932/large.jpeg",
+        "author": "Ricard Busquets Reverte",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/143359542"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245852193/large.jpeg",
+        "author": "Ricard Busquets Reverte",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/143359542"
+      },
+      {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245852257/large.jpeg",
+        "author": "Ricard Busquets Reverte",
+        "license": "CC-BY",
+        "source": "https://www.inaturalist.org/observations/143359542"
       }
     ]
   }
